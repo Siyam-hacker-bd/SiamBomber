@@ -91,20 +91,26 @@ def update():
 
 #Logo
 def logo():
-    os.system("clear")
-    print("\033[94m┌────────────────────────────────────────┐".center(columns+5))
-    print("\033[94m│     \033[92m▀▛▘     ▗    ▛▀▖       ▌        \033[94m   │".center(columns+15))
-    print("\033[94m│     \033[92m ▌▞▀▖▚▗▘▄ ▞▀▖▙▄▘▞▀▖▛▚▀▖▛▀▖▞▀▖▙▀▖\033[94m   │".center(columns+15))
-    print("\033[94m│     \033[92m ▌▌ ▌▗▚ ▐ ▌ ▖▌ ▌▌ ▌▌▐ ▌▌ ▌▛▀ ▌  \033[94m   │".center(columns+15))
-    print("\033[94m│     \033[92m ▘▝▀ ▘ ▘▀▘▝▀ ▀▀ ▝▀ ▘▝ ▘▀▀ ▝▀▘▘  \033[94m   │".center(columns+15))
-    print("\033[94m│                              \033[94m          │".center(columns+9))
-    print("\033[94m│ \033[95mAuthor : ToxicNoob Inc.                \033[94m│".center(columns+15))
-    print("│ \033[95mTool   : Unlimited SMS Bomber          \033[94m│".center(columns+9))
-    print("│ \033[95mGitHub : https://github.com/Toxic-Noob \033[94m│".center(columns+9))
-    print("│ \033[95mCoder  : HunterSl4d3              \033[37mV4.1 \033[94m│".center(columns+15))
-    print("\033[94m└────────────────────────────────────────┘".center(columns+5))
-
-
+                                                                                                 
+                                                                                             
+   SSSSSSSSSSSSSSS IIIIIIIIII               AAA               MMMMMMMM               MMMMMMMM
+ SS:::::::::::::::SI::::::::I              A:::A              M:::::::M             M:::::::M
+S:::::SSSSSS::::::SI::::::::I             A:::::A             M::::::::M           M::::::::M
+S:::::S     SSSSSSSII::::::II            A:::::::A            M:::::::::M         M:::::::::M
+S:::::S              I::::I             A:::::::::A           M::::::::::M       M::::::::::M
+S:::::S              I::::I            A:::::A:::::A          M:::::::::::M     M:::::::::::M
+ S::::SSSS           I::::I           A:::::A A:::::A         M:::::::M::::M   M::::M:::::::M
+  SS::::::SSSSS      I::::I          A:::::A   A:::::A        M::::::M M::::M M::::M M::::::M
+    SSS::::::::SS    I::::I         A:::::A     A:::::A       M::::::M  M::::M::::M  M::::::M
+       SSSSSS::::S   I::::I        A:::::AAAAAAAAA:::::A      M::::::M   M:::::::M   M::::::M
+            S:::::S  I::::I       A:::::::::::::::::::::A     M::::::M    M:::::M    M::::::M
+            S:::::S  I::::I      A:::::AAAAAAAAAAAAA:::::A    M::::::M     MMMMM     M::::::M
+SSSSSSS     S:::::SII::::::II   A:::::A             A:::::A   M::::::M               M::::::M
+S::::::SSSSSS:::::SI::::::::I  A:::::A               A:::::A  M::::::M               M::::::M
+S:::::::::::::::SS I::::::::I A:::::A                 A:::::A M::::::M               M::::::M
+ SSSSSSSSSSSSSSS   IIIIIIIIIIAAAAAAA                   AAAAAAAMMMMMMMM               MMMMMMMM
+                                                                                             
+                                                                                                                                                                              
 # Options Banner
 def banner():
     amount = str(main.amount)
