@@ -38,8 +38,4 @@ python Siam.py
 <li>SiamNoob Will Never Be Responsible For Any Misuse</li>
 <li>Use It At Your Own SIAM</li>
 
-## Contact :
-For Any Help or Suggestions, Contact With Us:
-<li> Via <a (https://www.facebook.com/profile.php?id=100089004054732&mibextid=ZbWKwL)">Facebook</a>
-
 ![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
